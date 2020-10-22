@@ -42,7 +42,7 @@ namespace Prov_Antikvariat
             int correctPrice;
             actualValue * rarity = correctPrice;
             int priceDifference = generator.Next(50,151);
-
+ 
             return 0;
         }
 
